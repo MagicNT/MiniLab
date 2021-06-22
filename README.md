@@ -1,4 +1,4 @@
-# MiniLab
+# MiniLab: C-Based Scalar/Matrix Operation and Manipulation Workspace
 
 ## About
 MiniLab is a C-based workspace simpler version of MATLAB for scalar and matrix mathematical operations and manipulation.
